@@ -135,8 +135,7 @@ Contributions are welcome for learning and improvement purposes.
 ## Contact
 
 **Live URL:** [Live Site](https://shirsendu-dev.github.io/portfolio-website/)  
-**Email:** [shirsendu.js.dev@gmail.com](mailto:shirsendu.js.dev@gmail.com)  
-**Portfolio:** [Portfolio](https://sbswebdesign.xyz/)
+**Email:** [shirsendu.js.dev@gmail.com](mailto:shirsendu.js.dev@gmail.com)
 
 ---
 
